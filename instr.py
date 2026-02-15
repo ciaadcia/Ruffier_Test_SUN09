@@ -30,3 +30,4 @@ txt_starttest1 = 'Start the first test'
 txt_starttest2 = 'Start doing squats'
 txt_starttest3 = 'Start the final test'
 txt_finalwin = 'Results'
+#save
