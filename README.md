@@ -13,7 +13,7 @@ LINK REPO
 |-----------------|---------|
 | Lidzie     | [Lidzie](https://github.com/zliraao/Ruffier-Test-Lizi.git) |
 | Ahmad       | Ahmad |
-| Hafidz   | Hafidz |
+| Hafidz   | [Hafidz](https://github.com/mmhhr2009/Heart-Check.git)|
 | Ayumi   | [Ayumi](https://github.com/ayumiiknmau/ruffier-test.git) |
 
 DAY 1
