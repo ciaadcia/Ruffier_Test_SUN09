@@ -23,3 +23,11 @@ DAY 1
 | instr.py        | Lidzie |
 | second_win.py   | Ayumi |
 | final_win.py    | Ahmad |
+
+DAY2
+| Name            | File |
+|-----------------|---------|
+|      | second.py -> def timer test, def timer_sits, def timer_final |
+|    | final_win.py - > def results sampai if age 11 |
+|    | final_win.py - > def results  dari if age 13 |
+|       | second.py -> def timer1Event, def timer2Event, def timer3Event, def connects |
