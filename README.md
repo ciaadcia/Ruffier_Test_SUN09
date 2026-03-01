@@ -27,7 +27,7 @@ DAY 1
 DAY2
 | Name            | File |
 |-----------------|---------|
-|      | second.py -> def timer test, def timer_sits, def timer_final |
-|    | final_win.py - > def results sampai if age 11 |
-|    | final_win.py - > def results  dari if age 13 |
-|       | second.py -> def timer1Event, def timer2Event, def timer3Event, def connects |
+| Lidzie | second.py -> def timer test, def timer_sits, def timer_final |
+| Ayumi | final_win.py - > def results sampai if age 11 |
+| Hafidz | final_win.py - > def results  dari if age 13 |
+| Ahmad | second.py -> def timer1Event, def timer2Event, def timer3Event, def connects |
